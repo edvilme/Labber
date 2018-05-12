@@ -1,4 +1,7 @@
 # Labber
+
+![img](https://github.com/edvilme/Labber/blob/master/poster.jpg)
+
 Do science from your smartphone!
 
 APP STORE LINK 
